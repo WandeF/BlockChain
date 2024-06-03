@@ -1,0 +1,2 @@
+{"index": 0, "timestamp": 1713862381.3718262, "tx": "", "previous_block": "", "node": "", "nouce": 35010, "hash": "0000da80218309deb9b878e5f678ecbb0a5573f083129d04bacfc00469804adc"}
+{"index": 1, "timestamp": 1713862381.5000596, "tx": ["a", "b", "c", "d", "e", "f"], "previous_block": "0000da80218309deb9b878e5f678ecbb0a5573f083129d04bacfc00469804adc", "node": "3008", "nouce": 9406, "hash": "0000544498c7faa0452804821ff70d7b2f47290fa36f09ac099b4b8559a7c6ac"}

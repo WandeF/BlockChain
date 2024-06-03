@@ -1,0 +1,8 @@
+README.md
+setup.py
+iotchain.egg-info/PKG-INFO
+iotchain.egg-info/SOURCES.txt
+iotchain.egg-info/dependency_links.txt
+iotchain.egg-info/entry_points.txt
+iotchain.egg-info/requires.txt
+iotchain.egg-info/top_level.txt
