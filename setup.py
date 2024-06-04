@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'filelock==3.14.0',
         'lib==4.0.0',
-        'PyYAML==5.4.1',
+        'PyYAML~=6.0.0',
     ],
     entry_points={
         'console_scripts': [
