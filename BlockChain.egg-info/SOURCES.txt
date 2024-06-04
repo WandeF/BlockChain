@@ -1,8 +1,0 @@
-README.md
-setup.py
-BlockChain.egg-info/PKG-INFO
-BlockChain.egg-info/SOURCES.txt
-BlockChain.egg-info/dependency_links.txt
-BlockChain.egg-info/entry_points.txt
-BlockChain.egg-info/requires.txt
-BlockChain.egg-info/top_level.txt
